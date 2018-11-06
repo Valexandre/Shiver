@@ -44,7 +44,7 @@ scoring in the first minute and winning 10-0 at the 90th minute and a team finis
 draw.
 
 So this is what the Shiver index of the first day of the 2017-8 season looks like.
-![Premiere Journee de Ligue1](https://github.com/Valexandre/Shiver/S17E01.png "Premiere Journee de Ligue1")
+![Premiere Journee de Ligue1](https://github.com/Valexandre/Shiver/blob/master/S17E01FR.png "Premiere Journee de Ligue1")
 
 
 ## Comparing with the points per domination time
