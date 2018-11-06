@@ -11,10 +11,14 @@ Well, I can believe that some may think differently, but anyway, here is the ind
 The point of the shiver index is to quantify how many points should have been earned by each team given the time they played in the final configuration.
 
 Let's look at a specific example.
-Season 2017-8. Ligue 1. Day 1.
-Angers meets Bordeaux. Final result : **2-2**.
-Time of goals for Angers : 11 - 88
-Time of goals for Bordeaux : 29 - 52
+<dl>
+  <dt>Season 2017-8. Ligue 1. Day 1.</dt>
+  <dd>Angers meets Bordeaux. Final result : 2-2.</dd>
+  <dt>Time of goals for Angers :</dt>
+  <dd>11 - 88</dd>
+  <dt>Time of goals for Bordeaux :</dt>
+  <dd>29 - 52</dd>
+</dl>
 
 So if you are supporting le Sco d'Angers, you witnessed your team winning for (29-11) 18
 minutes, losing for (88-52) 36 minutes and conceding a draw for (11 +(52-29)+ 2+ extra time) 36
@@ -31,7 +35,7 @@ The Shiver index for Bordeaux will be
 
 1-((36 * 3)+(36 * 1)+(18 * 0)/90))= 1-1.6 =-0.6
 
-Bordeaux brought back from Angers 0,6 points less than their team got during the course of the
+Bordeaux brought back from Angers 0.6 points less than their team got during the course of the
 game. Angers deserved this point but no more.
 The lower your Shiver index, the higher the disappointment.
 
@@ -43,5 +47,4 @@ This is where the Shiver stops and when the Smasher index comes in.
 
 ## Comparing with the points per domination time
 
-I don't pretend this is any invention of mine. The point here is to quantify the time during which a
-team is ahead of the other.
+To be continued...
