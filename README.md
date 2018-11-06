@@ -43,7 +43,9 @@ This also means that there is no or very little difference in the Shiver index b
 scoring in the first minute and winning 10-0 at the 90th minute and a team finishing with a 0-0
 draw.
 
-This is where the Shiver stops and when the Smasher index comes in.
+So this is what the Shiver index of the first day of the 2017-8 season looks like.
+![Premiere Journee de Ligue1](https://github.com/Valexandre/Shiver/S17E01.png "Premiere Journee de Ligue1")
+
 
 ## Comparing with the points per domination time
 
