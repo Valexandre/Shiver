@@ -24,8 +24,11 @@ They got 1 point for a situation held for 36 minutes. They lost for a similar am
 won for half this time.
 
 The Shiver index for Angers will be
+
 1-((18 * 3)+(36 * 1)+(36 * 0) /90)= 1-1 = 0
+
 The Shiver index for Bordeaux will be
+
 1-((36 * 3)+(36 * 1)+(18 * 0)/90))= 1-1.6 =-0.6
 
 Bordeaux brought back from Angers 0,6 points less than their team got during the course of the
